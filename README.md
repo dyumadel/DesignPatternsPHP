@@ -1,6 +1,7 @@
 # DesignPatternsPHP
 
 [![Build Status](https://travis-ci.org/domnikl/DesignPatternsPHP.svg?branch=master)](https://travis-ci.org/domnikl/DesignPatternsPHP)
+[![Documentation Status](https://readthedocs.org/projects/designpatternsphp/badge/?version=latest)](https://readthedocs.org/projects/designpatternsphp/?badge=latest)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/DominikLiebler)
 
 [Read the Docs of DesignPatternsPHP](http://designpatternsphp.readthedocs.org)
@@ -88,7 +89,7 @@ The patterns can be structured in roughly three different categories. Please cli
 * [Visitor](Behavioral/Visitor) [:notebook:](http://en.wikipedia.org/wiki/Visitor_pattern)
 
 ### [More](More)
-* [Delegation](More/Delegation) [:notebook:](http://en.wikipedia.org/wiki/Delegation_pattern)
+
 * [ServiceLocator](More/ServiceLocator) [:notebook:](http://en.wikipedia.org/wiki/Service_locator_pattern) (is considered an anti-pattern! :no_entry:)
 * [Repository](More/Repository)
 * [EAV](More/EAV) [:notebook:](https://en.wikipedia.org/wiki/Entity%E2%80%93attribute%E2%80%93value_model)
